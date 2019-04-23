@@ -387,17 +387,21 @@ nav .fa {
   background-image: url('http://ilikerobots.me/image/profile.jpeg');
 }
 
+/* end of header*/
+
 * {
   margin: 0;
   padding: 0;
 }
-
+/* test
 body {
   background: #0A122A;
 }
 
 /* Let's style the wrapper in such away that, 
 it should always be at the center of the browser */
+
+
 .wrapper {
   position: absolute;
   top: 50%;
