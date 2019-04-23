@@ -396,8 +396,16 @@ nav .fa {
 /* test
 body {
   background: #0A122A;
+} */
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
 }
-
 /* Let's style the wrapper in such away that, 
 it should always be at the center of the browser */
 
